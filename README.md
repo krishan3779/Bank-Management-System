@@ -42,7 +42,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/krishan3779/java-bank-management.git
+git clone https://github.com/krishan3779/Bank-Management-System.git
 Setup Database:
 
 Create a MySQL database and execute the provided SQL scripts.
